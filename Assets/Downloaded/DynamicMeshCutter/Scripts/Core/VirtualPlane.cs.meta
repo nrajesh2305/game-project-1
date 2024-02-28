@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 72f98dc4ad29ba149a028ef6abecd556
+timeCreated: 1496220116
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 208384
+  packageName: Dynamic Mesh Cutter
+  packageVersion: 1.2.4
+  assetPath: Assets/Downloaded/DynamicMeshCutter/Scripts/Core/VirtualPlane.cs
+  uploadId: 596338
